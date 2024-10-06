@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma, serif;
+    color: darkgreen;
+}
+
+.navbar{
+    overflow: hidden;
+    /* background-color: #ade0f5; */
+    position: fixed;
+    top: 0;
+    width: 100%;
+    line-height: 47px;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+padding-top: 47px;
+}
+
+.text-right{
+  text-align: right;  
+}
+
+.width-100{
+    width: 100%;
+}
+
+
+.width-50{
+    width: 50%;
+}
+
+
+.main{
+    overflow: hidden;
+    background-image: url(images/flowers1.jpg);
+    min-height: 40vh;
+    background-size: cover;
+
+}
+
+.main h1{
+    background-color: rgba(255,255,255,0.7);
+    margin-top: 3em;
+    padding: 1em;
+}
+
+.hp{
+    padding: 0 5em;
+}
+
+.float-left{
+    float:left;
+}
+
+.overflow-hidden{
+    overflow: hidden;
+}
